@@ -1,0 +1,363 @@
+https://api.scripture.api.bible/v1/bibles/de4e12af7f28f599-01/books/GEN/chapters
+
+{
+    "data": [
+        {
+            "id": "GEN.intro",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "intro",
+            "reference": "Genesis"
+        },
+        {
+            "id": "GEN.1",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "1",
+            "reference": "Genesis 1"
+        },
+        {
+            "id": "GEN.2",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "2",
+            "reference": "Genesis 2"
+        },
+        {
+            "id": "GEN.3",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "3",
+            "reference": "Genesis 3"
+        },
+        {
+            "id": "GEN.4",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "4",
+            "reference": "Genesis 4"
+        },
+        {
+            "id": "GEN.5",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "5",
+            "reference": "Genesis 5"
+        },
+        {
+            "id": "GEN.6",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "6",
+            "reference": "Genesis 6"
+        },
+        {
+            "id": "GEN.7",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "7",
+            "reference": "Genesis 7"
+        },
+        {
+            "id": "GEN.8",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "8",
+            "reference": "Genesis 8"
+        },
+        {
+            "id": "GEN.9",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "9",
+            "reference": "Genesis 9"
+        },
+        {
+            "id": "GEN.10",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "10",
+            "reference": "Genesis 10"
+        },
+        {
+            "id": "GEN.11",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "11",
+            "reference": "Genesis 11"
+        },
+        {
+            "id": "GEN.12",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "12",
+            "reference": "Genesis 12"
+        },
+        {
+            "id": "GEN.13",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "13",
+            "reference": "Genesis 13"
+        },
+        {
+            "id": "GEN.14",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "14",
+            "reference": "Genesis 14"
+        },
+        {
+            "id": "GEN.15",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "15",
+            "reference": "Genesis 15"
+        },
+        {
+            "id": "GEN.16",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "16",
+            "reference": "Genesis 16"
+        },
+        {
+            "id": "GEN.17",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "17",
+            "reference": "Genesis 17"
+        },
+        {
+            "id": "GEN.18",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "18",
+            "reference": "Genesis 18"
+        },
+        {
+            "id": "GEN.19",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "19",
+            "reference": "Genesis 19"
+        },
+        {
+            "id": "GEN.20",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "20",
+            "reference": "Genesis 20"
+        },
+        {
+            "id": "GEN.21",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "21",
+            "reference": "Genesis 21"
+        },
+        {
+            "id": "GEN.22",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "22",
+            "reference": "Genesis 22"
+        },
+        {
+            "id": "GEN.23",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "23",
+            "reference": "Genesis 23"
+        },
+        {
+            "id": "GEN.24",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "24",
+            "reference": "Genesis 24"
+        },
+        {
+            "id": "GEN.25",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "25",
+            "reference": "Genesis 25"
+        },
+        {
+            "id": "GEN.26",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "26",
+            "reference": "Genesis 26"
+        },
+        {
+            "id": "GEN.27",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "27",
+            "reference": "Genesis 27"
+        },
+        {
+            "id": "GEN.28",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "28",
+            "reference": "Genesis 28"
+        },
+        {
+            "id": "GEN.29",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "29",
+            "reference": "Genesis 29"
+        },
+        {
+            "id": "GEN.30",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "30",
+            "reference": "Genesis 30"
+        },
+        {
+            "id": "GEN.31",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "31",
+            "reference": "Genesis 31"
+        },
+        {
+            "id": "GEN.32",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "32",
+            "reference": "Genesis 32"
+        },
+        {
+            "id": "GEN.33",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "33",
+            "reference": "Genesis 33"
+        },
+        {
+            "id": "GEN.34",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "34",
+            "reference": "Genesis 34"
+        },
+        {
+            "id": "GEN.35",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "35",
+            "reference": "Genesis 35"
+        },
+        {
+            "id": "GEN.36",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "36",
+            "reference": "Genesis 36"
+        },
+        {
+            "id": "GEN.37",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "37",
+            "reference": "Genesis 37"
+        },
+        {
+            "id": "GEN.38",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "38",
+            "reference": "Genesis 38"
+        },
+        {
+            "id": "GEN.39",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "39",
+            "reference": "Genesis 39"
+        },
+        {
+            "id": "GEN.40",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "40",
+            "reference": "Genesis 40"
+        },
+        {
+            "id": "GEN.41",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "41",
+            "reference": "Genesis 41"
+        },
+        {
+            "id": "GEN.42",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "42",
+            "reference": "Genesis 42"
+        },
+        {
+            "id": "GEN.43",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "43",
+            "reference": "Genesis 43"
+        },
+        {
+            "id": "GEN.44",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "44",
+            "reference": "Genesis 44"
+        },
+        {
+            "id": "GEN.45",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "45",
+            "reference": "Genesis 45"
+        },
+        {
+            "id": "GEN.46",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "46",
+            "reference": "Genesis 46"
+        },
+        {
+            "id": "GEN.47",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "47",
+            "reference": "Genesis 47"
+        },
+        {
+            "id": "GEN.48",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "48",
+            "reference": "Genesis 48"
+        },
+        {
+            "id": "GEN.49",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "49",
+            "reference": "Genesis 49"
+        },
+        {
+            "id": "GEN.50",
+            "bibleId": "de4e12af7f28f599-01",
+            "bookId": "GEN",
+            "number": "50",
+            "reference": "Genesis 50"
+        }
+    ]
+}
