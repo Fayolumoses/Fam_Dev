@@ -128,7 +128,7 @@ while True:
 
     print(url)
     headers = {
-        "api-key": "578796b7c52b5913ddc6329904aa39ff",
+        "api-key": "",
         "accept": "application/json"
     }
 
