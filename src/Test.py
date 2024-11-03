@@ -142,6 +142,7 @@ while True:
                 text = data['data']['content']
                 text = text.replace('¶', '')
                 text = "Hi, It is time to wake up.\n Hello Sir and Ma, Good Morning to you. I believe you slept well. \n Here is the word of God for today.\n" + text
+
                 language = 'en'
                 tts = gTTS(text=text, lang=language, slow=False)
                 tts.save("output.mp3")
@@ -174,9 +175,34 @@ while True:
             else:
                 print("Content not found in the response.")
         else:
-            backup()
+            text = "Hi, It is time to wake up.\n Hello Sir and Ma, Good Morning to you. I believe you slept well. \n Here is the word of God for today. \nHe that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. \n2 I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust. \n3 Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence. \n4 He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler. \n5 Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day; \n6 Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday. \n7 A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee. \n8 Only with thine eyes shalt thou behold and see the reward of the wicked. \n9 Because thou hast made the Lord, which is my refuge, even the most High, thy habitation;\n 10 There shall no evil befall thee, neither shall any plague come nigh thy dwelling. \n11 For he shall give his angels charge over thee, to keep thee in all thy ways. \n12 They shall bear thee up in their hands, lest thou dash thy foot against a stone. \n13 Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet. \n14 Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name. \n15 He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him. \n16 With long life will I satisfy him, and shew him my salvation.\n"
+            # print(text)
+            language = 'en'
+            tts = gTTS(text=text, lang=language, slow=False)
+            tts.save("output.mp3")
+            print("Conversion Complete")
+            sound2 = pygame.mixer.Sound("output.mp3")
+            sound1.set_volume(0.3)
+            sound2.play()
+            # os.system("mpg321 output.mp3")
+            os.remove("output.mp3")
 
             
 
     except RequestException as e:
-        backup()
+        text = "Hi, It is time to wake up.\n Hello Sir and Ma, Good Morning to you. I believe you slept well. \n Here is the word of God for today. \nHe that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty. \n2 I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust. \n3 Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence. \n4 He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler. \n5 Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day; \n6 Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday. \n7 A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee. \n8 Only with thine eyes shalt thou behold and see the reward of the wicked. \n9 Because thou hast made the Lord, which is my refuge, even the most High, thy habitation;\n 10 There shall no evil befall thee, neither shall any plague come nigh thy dwelling. \n11 For he shall give his angels charge over thee, to keep thee in all thy ways. \n12 They shall bear thee up in their hands, lest thou dash thy foot against a stone. \n13 Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet. \n14 Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name. \n15 He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him. \n16 With long life will I satisfy him, and shew him my salvation.\n"
+        # print(text)
+        language = 'en'
+        tts = gTTS(text=text, lang=language, slow=False)
+        tts.save("output.mp3")
+        print("Conversion Complete")
+        sound2 = pygame.mixer.Sound("output.mp3")
+        sound1.set_volume(0.3)
+        sound2.play()
+        # os.system("mpg321 output.mp3")
+        os.remove("output.mp3")
+
+
+
+
+
